@@ -1,0 +1,10 @@
+<main>
+<article>
+    <section>
+        <h3>About</h3>
+    </section>
+    <section>
+        Skill
+    </section>
+</article>
+</main>
